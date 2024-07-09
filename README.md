@@ -60,3 +60,7 @@ Before using this tool, make sure you have the following installed on your syste
 ## Disclaimer
 
 This tool is intended for educational purposes only. The author is not responsible for any illegal use of this tool. By using this tool, you agree to use it responsibly and ethically.
+
+## Passwords File
+
+I have provided a `passwords.txt` file that contains a list of the most common passwords. This file can be used to test the brute force attack functionality of the tool. Make sure to use it responsibly and only for educational or authorized security testing purposes.
